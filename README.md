@@ -36,7 +36,7 @@ cd sms-bomber
 
 ## و در نهایت: اجرای آن
 ```
-python shark.py
+python bomber.py
 ```
 
 > **لطفا توجه کنید**
